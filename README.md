@@ -1,2 +1,2 @@
 # BTS-in-Battle
-BTS in Battle, GameBoy Rom
+MSCHF's BTS in Battle, GameBoy Rom
